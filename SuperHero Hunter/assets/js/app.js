@@ -1,7 +1,4 @@
-// My Public API - b309871f10806da0e2b3918da9a73af5
-// MD5 Hash -  c8ee13381c07c4d76e309375612300a5
-// privete
-// c7e48ad9d6c4417ec0642d32c00c961ebe1564b3
+
 //  Get Id from HTML File, & Search query with HTTP Request, then parse it
 
 document.getElementById("search-form").addEventListener('keyup' , function(){
